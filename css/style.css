@@ -1,0 +1,23 @@
+.timer {
+    display: flex;
+    justify-content: center;
+}
+
+.field {
+    border: 3px solid black;
+    border-radius: 20%;
+    text-align: center;
+    font-family: sans-serif;
+    background: grey;
+    color: white;
+    width: 70px;
+    padding: 20px;
+}
+
+.value {
+    font-size: 30px;
+}
+
+.title {
+    font-size: 30px;
+}
